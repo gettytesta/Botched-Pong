@@ -1,4 +1,4 @@
-# Botched-Pong
+# Pong-Clone
 A recreation of pong in C++ with SDL.
 
 This is a semi-authentic recreation of pong, made in C++ in SDL. 
